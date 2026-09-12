@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Hello">
+  <rect width="512" height="512" fill="#0f1419"/>
+  <rect x="64" y="64" width="384" height="384" rx="48" fill="#1a2332" stroke="#3d8bfd" stroke-width="8"/>
+  <text x="256" y="290" fill="#f4f7fb" font-family="ui-monospace, monospace" font-size="96" font-weight="600" text-anchor="middle">Hi</text>
+</svg>

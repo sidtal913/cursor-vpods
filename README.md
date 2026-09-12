@@ -20,7 +20,17 @@ Endpoints:
 
 ## Frontend (React PWA)
 
-The React frontend is maintained separately under the frontend hire lane. Once present, run it per that package's README (typically `npm install && npm run dev`).
+See [Frontend/README.md](Frontend/README.md) for build and run instructions.
+
+Quick start:
+
+```bash
+cd Frontend
+npm install
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) for the hello page. Production build: `npm run build && npm run preview`.
 
 ## Database
 
